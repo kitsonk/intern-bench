@@ -11,7 +11,7 @@
 		{ "type": "BSD-3-Clause", "url": "https://github.com/kitsonk/intern-bench/blob/master/LICENSE" }
 	],
 	"devDependencies": {
-		"intern": "https://github.com/theintern/intern/archive/master.tar.gz"
+		"intern": "https://github.com/kitsonk/intern/archive/bench.tar.gz"
 	},
 	"bugs": "https://github.com/kitson/intern-bench/issues",
 }
