@@ -1,0 +1,17 @@
+{
+	"name": "intern-bench",
+	"version": "1.0.0",
+	"main": "main",
+	"description": "Benchmarking Test for The Intern",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kitsonk/intern-bench.git"
+	},
+	"licenses": [
+		{ "type": "BSD-3-Clause", "url": "https://github.com/kitsonk/intern-bench/blob/master/LICENSE" }
+	],
+	"devDependencies": {
+		"intern": "https://github.com/theintern/intern/archive/master.tar.gz"
+	},
+	"bugs": "https://github.com/kitson/intern-bench/issues",
+}
